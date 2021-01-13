@@ -22,7 +22,7 @@ dp <- daycab %>%
   ggtitle("Miles by Day Cab Tractor")
 
 dp
-dp1 <- 2034
+
 
 
 
@@ -81,3 +81,5 @@ densp
 
 grid.arrange(dp, sp, bp, densp)
 
+
+testing123 <- 123
